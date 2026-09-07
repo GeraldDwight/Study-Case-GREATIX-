@@ -1,4 +1,4 @@
-# 🎟️ GREATIX — Modern Event & Festival Ticketing Platform
+# 🎟️ GREATIX — Event Management System
 
 <div align="center">
   <p><b>Platform pemesanan tiket event & festival digital berperforma tinggi dengan antarmuka futuristik bergaya cyberpunk-glassmorphism.</b></p>
